@@ -1,0 +1,61 @@
+# Ignore arquivos de build
+bin/
+obj/
+
+# Ignorar arquivos de configuração do ambiente de desenvolvimento
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Ignorar arquivos gerados por IDEs
+.idea/
+.vscode/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos temporários
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# Ignorar arquivos de pacotes NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# Ignorar arquivos de publicação
+publish/
+out/
+
+# Ignorar configurações de build
+*.buildlog
+*.tlog
+*.ilk
+*.pdb
+*.obj
+
+# Ignorar arquivos de cache
+.cache/
+*.pidb
+*.sconsign.dblite
+
+# Ignorar configurações locais específicas
+local.properties
+settings.local.json
+
+# Ignorar arquivos de dependências
+packages/
+
+# Ignorar arquivos gerados pelo sistema de controle de versão
+*.orig
+
+# Ignorar o arquivo de lock global
+project.lock.json
+
+# Ignorar arquivos de diretórios do Rider
+.idea/

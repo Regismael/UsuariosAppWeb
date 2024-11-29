@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\AULAS10_12_2024\\UsuariosApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{126C8E2C-CFCC-44EB-8357-7BB52366D9EC}|UsuariosApp.Infra.Security\\UsuariosApp.Infra.Security.csproj|c:\\aulas10_12_2024\\usuariosapp\\usuariosapp.infra.security\\settings\\jwttokensettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126C8E2C-CFCC-44EB-8357-7BB52366D9EC}|UsuariosApp.Infra.Security\\UsuariosApp.Infra.Security.csproj|solutionrelative:usuariosapp.infra.security\\settings\\jwttokensettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126C8E2C-CFCC-44EB-8357-7BB52366D9EC}|UsuariosApp.Infra.Security\\UsuariosApp.Infra.Security.csproj|c:\\aulas10_12_2024\\usuariosapp\\usuariosapp.infra.security\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126C8E2C-CFCC-44EB-8357-7BB52366D9EC}|UsuariosApp.Infra.Security\\UsuariosApp.Infra.Security.csproj|solutionrelative:usuariosapp.infra.security\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA2BDEC-C0C0-4DBF-AEDB-762886A204DD}|UsuariosApp.API\\UsuariosApp.API.csproj|c:\\aulas10_12_2024\\usuariosapp\\usuariosapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA2BDEC-C0C0-4DBF-AEDB-762886A204DD}|UsuariosApp.API\\UsuariosApp.API.csproj|solutionrelative:usuariosapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA2BDEC-C0C0-4DBF-AEDB-762886A204DD}|UsuariosApp.API\\UsuariosApp.API.csproj|c:\\aulas10_12_2024\\usuariosapp\\usuariosapp.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA2BDEC-C0C0-4DBF-AEDB-762886A204DD}|UsuariosApp.API\\UsuariosApp.API.csproj|solutionrelative:usuariosapp.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JwtTokenSettings.cs",
+              "DocumentMoniker": "C:\\AULAS10_12_2024\\UsuariosApp\\UsuariosApp.Infra.Security\\Settings\\JwtTokenSettings.cs",
+              "RelativeDocumentMoniker": "UsuariosApp.Infra.Security\\Settings\\JwtTokenSettings.cs",
+              "ToolTip": "C:\\AULAS10_12_2024\\UsuariosApp\\UsuariosApp.Infra.Security\\Settings\\JwtTokenSettings.cs",
+              "RelativeToolTip": "UsuariosApp.Infra.Security\\Settings\\JwtTokenSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T11:15:04.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\AULAS10_12_2024\\UsuariosApp\\UsuariosApp.Infra.Security\\Services\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "UsuariosApp.Infra.Security\\Services\\JwtTokenService.cs",
+              "ToolTip": "C:\\AULAS10_12_2024\\UsuariosApp\\UsuariosApp.Infra.Security\\Services\\JwtTokenService.cs",
+              "RelativeToolTip": "UsuariosApp.Infra.Security\\Services\\JwtTokenService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T11:14:55.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\AULAS10_12_2024\\UsuariosApp\\UsuariosApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "UsuariosApp.API\\Program.cs",
+              "ToolTip": "C:\\AULAS10_12_2024\\UsuariosApp\\UsuariosApp.API\\Program.cs",
+              "RelativeToolTip": "UsuariosApp.API\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T11:14:43.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\AULAS10_12_2024\\UsuariosApp\\UsuariosApp.API\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "UsuariosApp.API\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\AULAS10_12_2024\\UsuariosApp\\UsuariosApp.API\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "UsuariosApp.API\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T11:04:28.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
